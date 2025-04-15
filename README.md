@@ -1,17 +1,17 @@
 # Joint obstacle avoidance - exploiting null space
 
-This is the description of task 2.2: usage of null space control to avoid obstacles.
+The goal of this repo is to implement null space control to avoid obstacles.
 
 # Set up
 
-Task 2.2 is implemenated in system **Ubuntu 20.04**, other packages please check the requirement file.
+Repo is implemenated in system **Ubuntu 20.04**, other packages please check the requirement file.
 
 # Implementation
 
-Please run `2_2.py` to implement the null space control in the following command:
+Please run `null_space_control.py` to implement the null space control in the following command:
 
 ```
-python3 Task2.2/2_2.py
+python3 null_space_control.py
 ```
 
 # Reference
