@@ -4,7 +4,7 @@ The goal of this repo is to implement null space control to avoid obstacles.
 
 # Set up
 
-Repo is implemenated in system **Ubuntu 20.04**, other packages please check the requirement file.
+Repo is implemented in system **Ubuntu 20.04**, other packages please check the requirement file.
 
 # Implementation
 
